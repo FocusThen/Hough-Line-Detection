@@ -46,7 +46,9 @@ lines = cv2.HoughLinesP(edges,
                         max_line_gap)
 line_image = np.array(image_copy)
 ```
-### For loop in lines each line have 4 arg (x1, y1, x2, y2)
+
+  - For loop in lines each line have 4 arg (x1, y1, x2, y2)
+  - we want find Rectangle
 ```sh
 for line in lines:
     for x1, y1, x2, y2 in line:
