@@ -1,4 +1,4 @@
-# Hough-Line-Detection
+# Hough Line Detection
 
 ### Orignal image
 ![phone](https://user-images.githubusercontent.com/47830409/63932360-b7734700-ca5f-11e9-8325-ecb3c824a61c.jpg)
